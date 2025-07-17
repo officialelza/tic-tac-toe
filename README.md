@@ -24,6 +24,9 @@ Easily tweak fonts, colors, and even images to match your vibe.
 
 ---
 
+## 🎮 Live overview
+![Gameplay](screenshot.png)
+
 ## 🛠 Installation
 
 1. Make sure Python is installed.  
