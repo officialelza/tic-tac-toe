@@ -74,6 +74,7 @@ Easily tweak fonts, colors, and even images to match your vibe.
 - 📊 Add a scoreboard to track wins over multiple rounds.
 
 ---
+## ✨ A CS50P project
 
 ## 🙌 Credits
 
