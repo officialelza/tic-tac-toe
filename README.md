@@ -25,7 +25,8 @@ Easily tweak fonts, colors, and even images to match your vibe.
 ---
 
 ## 🎮 Live overview
-![Gameplay](screenshot.png)
+![Gameplay](tic-tac-toe-1.png)
+![Gameplay](tic-tac-toe-2.png)
 
 ## 🛠 Installation
 
